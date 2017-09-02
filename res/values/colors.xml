@@ -79,4 +79,7 @@
     <color name="lowlight">#650101</color>
     <color name="grey">#e7e7e7</color>
     <color name="disabled_knob">#575757</color>
+
+    <!-- Adaptive icon color -->
+    <color name="ic_background">#009688</color>
 </resources>
