@@ -24,8 +24,16 @@ import android.graphics.Rect;
 import com.android.gallery3d.R;
 import com.android.gallery3d.filtershow.imageshow.MasterImage;
 import com.android.gallery3d.filtershow.pipeline.FilterEnvironment;
+<<<<<<< HEAD
 
 import android.renderscript.RenderScript;
+=======
+import android.renderscript.Allocation;
+import android.renderscript.Element;
+import android.renderscript.RenderScript;
+import android.renderscript.Script.LaunchOptions;
+import android.renderscript.Type;
+>>>>>>> android-8.0.0_r4
 import android.util.Log;
 
 public class ImageFilterVignette extends ImageFilterRS {
